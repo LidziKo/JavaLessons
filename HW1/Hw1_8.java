@@ -1,6 +1,6 @@
 package HW1;
 
-public class hw1_8 {
+public class Hw1_8 {
     public static void main(String[] args){
         int year = 404;
         isItLeap(year);
